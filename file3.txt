@@ -1,1 +1,6 @@
 Ficheiro de texto numero 3
+
+
+Nova linha criada no exercicio
+
+Alterei este ficheiro
